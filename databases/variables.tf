@@ -17,13 +17,3 @@ variable "instance_type" {
   description = "The instance type"
   default     = "t2.micro"
 }
-
-variable "prefix" {
-  default     = "khdevel"
-  description = "The name of our organization"
-}
-
-variable "environment" {
-  default     = "dev"
-  description = "The name of our environment"
-}
