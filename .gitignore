@@ -1,4 +1,2 @@
-files/*.txt
-databases/terraform.tfstate*
-databases/files/*.txt
-.gitignore
+*/files/*.txt
+*/.terraform

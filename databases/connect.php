@@ -3,7 +3,7 @@
 This file shoudl be stored in some S3 bucket.
 Then it will be downloaded by the bootstrap.sh script.
 */
-$hostname = "";
+$hostname = "terraform-0027b30ec2a918b4f19bae9a29.cw1nsmlushf1.eu-west-1.rds.amazonaws.com:3306";
 $username = "asterisk";
 $password = "asterisk";
 $dbname   = "asterisk";
